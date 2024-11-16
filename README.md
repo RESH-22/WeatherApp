@@ -66,7 +66,7 @@ Don't forget to give the project a star! Thanks again!
 ### Top Contributors:
 
 <a href="#">
-  <img src="rr.png" alt="contrib.rocks image" />
+  <img src="r.avif" alt="contrib image" />
 </a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
