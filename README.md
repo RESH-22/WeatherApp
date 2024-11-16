@@ -10,7 +10,6 @@ To create a weather app
   <ol>
     <li><a href="#about-the-project">About The Project</a> </li>
     <li><a href="#built-with">Built With</a></li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -40,19 +39,6 @@ This section is the list of major frameworks/libraries used to bootstrap our pro
 * JAVA SCRIPT
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-* Integrate a Real Time Hospitals Showing the Avaliability  of Different Blood Types.
-* It Shows Real Time Avaliability of Doctors, Allow users to book Appointments instantly.
-* Doctors Can Share notes, Diagnostic Results, and treatment Plans in Real Time As a Consultations.
-* It Has Blood Donor and Receiver Registration Where Volunteers may Register and get the Information Used by the Hospitals.
-
-_For more examples, please refer to the [Documentation](#)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- CONTRIBUTING -->
 ## Contributing
