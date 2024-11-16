@@ -88,7 +88,7 @@ Distributed under the MSEC License. See `LICENSE.txt` for more information.
 * Reshmitha R - rreshmitha22@gmail.com
 
 
-Project Link: 
+Project Link: [https://github.com/RESH-22/WeatherApp.git]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
